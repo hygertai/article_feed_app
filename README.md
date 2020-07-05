@@ -7,7 +7,7 @@ Feed is a Flutter app for showing articles and user saved lists in the 'feed fas
 To run the app on iOS Simulator, go to  
 
 ```bash
-feedproject/ios
+article_feed_app/ios
 ```
 and open Runner.xcworkspace then Run the project from XCode.
 
